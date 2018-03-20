@@ -1,2 +1,2 @@
 # weChat
-Some utils about WeChat
+整理自己开发微信相关业务时的一些收获
