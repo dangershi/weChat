@@ -22,7 +22,7 @@ public class User implements Observer{
 	}
 
 	private void read() {
-		System.out.println(name + "收到推�?�消息：" + message);
+		System.out.println(name + "收到推送者消息：" + message);
 	}
 
 	
